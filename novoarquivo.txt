@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Esse é um novo arquivo!"
+echo "criado por HJCC"
+echo "data 08/07/2022"
